@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @st3n3lla
+- 👋 Hi, I’m @mariannacoppa
 - 👀 I’m interested in FE developing
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on websites and web apps
